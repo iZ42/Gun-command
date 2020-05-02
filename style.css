@@ -1,0 +1,33 @@
+canvas {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid grey;
+}
+#bulletOptions {
+  text-align: center; 
+  margin-top: 20px;
+  font-size: 19px;
+  font-weight: bold; 
+}
+label {
+  margin-right: 28px;
+  font-family: arial;
+}
+h2 {
+  text-align: center; 
+  font-family: arial;
+}
+h3 {
+  text-align: center;
+  font-family: arial;
+}
+ul {
+  width: 40%;
+  margin: auto; 
+}
+li {
+  padding: 5px;
+  font-family: arial;
+  font-size: 15px;
+}
